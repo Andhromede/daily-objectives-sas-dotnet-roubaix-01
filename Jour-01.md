@@ -4,12 +4,12 @@
 
 #### Profiles Professionnels
 
-- [ ] Comprendre les attentes et modes de fonctionnement des recruteurs en 2023
+- [X] Comprendre les attentes et modes de fonctionnement des recruteurs en 2023
   - [ ] Customiser son profile Github et son Linkedin "pour devenir la plus belle du village"
 
 #### Terminal
 
-- [ ] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
+- [X] Pimper son terminal (Zsh, Ohmyzsh, Powerlevel10k)
 - [ ] Créer un cheat sheet sur les principales commandes du terminal
 - [ ] Setup ses alias
 

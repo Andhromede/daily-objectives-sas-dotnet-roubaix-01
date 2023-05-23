@@ -4,7 +4,7 @@
 
 #### Git
 
-- [ ] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
+- [X] Ajouter ce repo en upstream dans les remotes sur son local après l'avoir forké et cloné
 - [ ] Découvrir les conventions de nommage de son versionning avec la convention Angular :
   - [ ] https://github.com/angular/angular/blob/main/CONTRIBUTING.md#-commit-message-format
   - [ ] https://www.conventionalcommits.org/fr/v1.0.0/
